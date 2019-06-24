@@ -1,5 +1,42 @@
-.navbar-brand {
+h2 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 100
+}
+.jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1541288097308-7b8e3f58c4c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;
+    color: white;
+    margin-top: 15px;
+}
+.display-4 {
+    margin-top:-45px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.btn-primary{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    border: none; 
+}
+
+footer {
+    padding: 10px;
+    background:#666;
     color:#ffffff;
-    background-color:#4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    border-top: 4px solid #4aaaa5;
+    font-weight: 100;
+}
+
+body{
+    height: 2000px
 }
